@@ -1,7 +1,9 @@
+/*
 import React, { act } from "react";
 import { render, screen } from "@testing-library/react";
 import { RevealAnswer } from "../components/RevealAnswer";
 import { expectAnswerIsPresent } from "../components/RevealAnswer.test";
+*/
 
 // commented out the integration test here so there is less to think about
 // but know that you can have multiple test files covering a component
