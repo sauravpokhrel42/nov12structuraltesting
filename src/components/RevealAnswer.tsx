@@ -12,6 +12,15 @@ export function RevealAnswer(): React.JSX.Element {
         }
     }
 
+    /*
+    function unusedFunction() {
+        let x = 0;
+        if (answerVisible) {
+            x = 1;
+        }
+    }
+    */
+
     return (
         <div>
             Answer: {answerVisible && 42}
